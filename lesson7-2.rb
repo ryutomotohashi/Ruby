@@ -20,8 +20,7 @@ while i<= input do
   puts "a-b=#{a-b}"
   puts "a*b=#{a*b}"
   puts "a/b=#{a/b}"
-
-  i += 1
+  i +=1
 end
 
 puts "計算を終了します"
